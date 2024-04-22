@@ -18,5 +18,7 @@ public class main {
 		rettangolo1.calcolaArea();
 		
 		rettangolo1.calcolaPerimetro();
+		
+		rettangolo1.stampaRettangolo();
 	}
 }
